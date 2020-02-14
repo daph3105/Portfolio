@@ -75,3 +75,17 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px -3px rgba(0, 0, 0, .1);
 }
+
+img{
+    width:32%;
+    height:auto;
+}
+.skills1{
+    background-color:blue;
+}
+.skills2{
+    background-color:green;
+}
+.skills3{
+    background-color:yellow;
+}
