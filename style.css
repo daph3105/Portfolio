@@ -80,14 +80,32 @@ img{
     width:32%;
     height:auto;
 }
+.skills1, .skills2, .skills3, .skills4, .skills5 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top:20%;
+    padding-bottom:20%;
+  
+    
+}
+.fa-star{
+        font-size: 100px;
+}
+
 .skills1{
-    background-color:blue;
+    background-image: url(./images/skills1.png);
 }
 .skills2{
-    background-color:green;
-  
+    background-image: url(./images/skills2.png);
 }
 .skills3{
-    background-color:yellow;
+    background-image: url(./images/skills3.png);
+}
+.skills4{
+    background-image: url(./images/skills4.png);
+}
+.skills5{
+    background-image: url(./images/skills5.png);
 }
 
