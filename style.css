@@ -12,17 +12,49 @@ body {
 .main {
     height: 100vh;
     text-align: center;
-    background: #6cd29f;
+    background: #407086;
 }
 
 
-.main h1 {
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 100px;
-}
+.intro{
+    display: flex;
+    flex-direction: column;
+    position:relative;
+    margin: 0 auto;
+    align-items: flex-end;
+    width:50%;
+    padding-top:120px;
+    
 
+}
+.intro-title{
+    font-size: 30px;
+    width:48%;
+    text-align: left;
+    margin-top:50px;
+}
+.intro-subtitle{
+    background-color:black;
+    width:100%;
+    height:35px;
+    padding: 5px 95px;
+    text-align: right;
+    margin-top:10px;
+    font-size: 20px;
+    color:white;
+}
+#daph-gif{
+    height: 300px;
+    width:auto;
+    position:absolute;
+    left:75px;
+    border-radius: 8px;
+    bottom:-30px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.329);
+}
+section{
+    padding: 5em 2em;
+}
 
 .nav {
     width: 100%;
@@ -77,10 +109,7 @@ body {
     box-shadow: 0 0 10px -3px rgba(0, 0, 0, .1);
 }
 
-img{
-    width:32%;
-    height:auto;
-}
+
 .skills1, .skills2, .skills3, .skills4, .skills5 {
     background-size: cover;
     background-repeat: no-repeat;
@@ -90,9 +119,7 @@ img{
   
     
 }
-.fa-star{
-        font-size: 100px;
-}
+
 
 .skills1{
     background-image: url(./images/skills1.png);
