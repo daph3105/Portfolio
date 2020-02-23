@@ -144,7 +144,7 @@ font-size: 2.5vw;
 }
 
 
-.skills1, .skills2, .skills3, .skills4, .skills5 {
+.skills1, .skills2, .skills3, .skills4, .skills5, .skills6 {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -159,18 +159,21 @@ font-size: 2.5vw;
     padding:0;
 }
 .skills1{
-    background-image: url(./images/skills1.png);
+    background-image: url(./images/technical1.png);
 }
 .skills2{
-    background-image: url(./images/skills2.png);
+    background-image: url(./images/technical2.png);
 }
 .skills3{
-    background-image: url(./images/skills3.png);
+    background-image: url(./images/technical3.png);
 }
 .skills4{
-    background-image: url(./images/skills4.png);
+    background-image: url(./images/technical4.png);
 }
 .skills5{
-    background-image: url(./images/skills5.png);
+    background-image: url(./images/technical4.png);
+}
+.skills6{
+    background-image: url(./images/final-technical.png);
 }
 
