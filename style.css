@@ -177,3 +177,11 @@ font-size: 2.5vw;
     background-image: url(./images/final-technical.png);
 }
 
+@media only screen and (max-width: 480px) {
+    #daph-gif{
+      
+    }
+.nav{
+    display:none;
+}
+  }
