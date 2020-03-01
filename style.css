@@ -224,9 +224,16 @@ flex-direction: column;
 .about-images{
         width:120%;
     }
-    .about-images img{
+.about-images img{
         width:30%;
         padding:20px;
     }
+.scroll-text{
+        font-size: 3.5vw;
+    }
+.scroll-area{
+    width:70%;
+    margin-left:15%;
+}
 
   }
