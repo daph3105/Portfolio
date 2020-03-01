@@ -211,7 +211,7 @@ font-size: 2.5vw;
 
 }
 .about-title{
-    margin-left:5%;
+    margin-left:9%;
     font-size: 25px;
     }
 .about-me{
@@ -219,8 +219,14 @@ flex-direction: column;
     }
 .about-paragraph1, .about-paragraph2{
         width:100%;
-        text-align: center;
         margin-bottom:20px;
+    }
+.about-images{
+        width:120%;
+    }
+    .about-images img{
+        width:30%;
+        padding:20px;
     }
 
   }
