@@ -16,3 +16,9 @@ window.onscroll = function () {
 
 var profileImg = document.getElementById("daph-gif");
 setTimeout(function(){ profileImg.src = "images/daph-profile.jpg" }, 3000);
+
+
+profileImg.onclick = function(){
+    profileImg.src = "images/daph-profile.gif" 
+    setTimeout(function(){ profileImg.src = "images/daph-profile.jpg" }, 3000); 
+};
