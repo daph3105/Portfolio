@@ -182,10 +182,11 @@ font-size: 2.5vw;
     display: flex;
 }
 .project-image{
-    width:50%;
+    width:100%;
 }
-.project-container a{
+.project-container a:first-child{
  text-decoration: none;
+ width:30%;
 }
 
 @media only screen and (max-width: 480px) {
