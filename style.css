@@ -145,38 +145,9 @@ font-size: 2.5vw;
     transform: scale(1.1);
 }
 
-
-.skills1, .skills2, .skills3, .skills4, .skills5, .skills6 {
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    padding-top:30%;
-    padding-bottom:20%;
-  
-    
-}
-
 #skills-area{
     margin:0;
     padding:0;
-}
-.skills1{
-    background-image: url(./images/technical1.png);
-}
-.skills2{
-    background-image: url(./images/technical2.png);
-}
-.skills3{
-    background-image: url(./images/technical3.png);
-}
-.skills4{
-    background-image: url(./images/technical4.png);
-}
-.skills5{
-    background-image: url(./images/technical4.png);
-}
-.skills6{
-    background-image: url(./images/final-technical.png);
 }
 
 @media only screen and (max-width: 480px) {
