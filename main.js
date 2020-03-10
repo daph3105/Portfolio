@@ -60,7 +60,7 @@ function checkSlide (e){
     else{
         image.classList.remove('active')
     }
-    number-=0.7;
+    number-=0.4;
     })
 
 
