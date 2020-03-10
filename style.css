@@ -239,18 +239,12 @@ flex-direction: column;
     margin-left:15%;
 }
 #skills-area{
-    display: flex;
     flex-direction: column;
-    height:600px;
-    justify-content: center;
     align-items: center;
 }
 .slide-in{
     height:130px;
     width: 130px;
-    opacity:0;
-    transform: translateX(-50%) scale(0.95);
-    padding: 30px;
     margin-top:10px;
 }
 
