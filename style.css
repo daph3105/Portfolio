@@ -180,6 +180,14 @@ font-size: 2.5vw;
  text-decoration: none;
  width:30%;
 }
+#contact-area{
+    display: flex;
+    justify-content: space-evenly;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
 
 @media only screen and (max-width: 480px) {
     #daph-gif{
