@@ -259,5 +259,8 @@ flex-direction: column;
     width: 130px;
     margin-top:10px;
 }
+#contact-area{
+ flex-direction: column-reverse;
+}
 
   }
