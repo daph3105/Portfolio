@@ -163,8 +163,8 @@ font-size: 2.5vw;
 }
 
 .slide-in{
-    height:250px;
-    width: 250px;
+    height:210px;
+    width: 210px;
     opacity:0;
     transform: translateX(-50%) scale(0.95);
     padding: 30px;
