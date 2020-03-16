@@ -177,6 +177,10 @@ font-size: 2.5vw;
     transform: translate(0%) scale(1);
 }
 
+.img-tools{
+    width: 250px;
+}
+
 .project-container{
     display: flex;
 }
