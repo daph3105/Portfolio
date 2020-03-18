@@ -220,7 +220,7 @@ form input:nth-child(-n + 2) {
     width:30%;
 }
 .contact-container h2{
-    margin-left: 0;
+    margin-left: 10px;
 }
 .contact-container i{
     font-size: 42px;
