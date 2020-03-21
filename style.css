@@ -216,11 +216,37 @@ form{
 form input:nth-child(-n + 2), textarea {
     padding:10px;
     border-radius: 5px;
-    width:350px;
+    width:360px;
     margin-bottom:10px;
     border:solid 2px #F0952E; 
 }
-
+.btn {
+    font-size: 1.0625em;
+    display: inline-block;
+    padding: 0.74em 1.5em;
+    color: white;
+    border-width: 0 0 0 0;
+    border-radius:5px;
+    text-transform: uppercase;
+    background-color: #407086;
+    border-bottom-color: #8c8c8c;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+      box-shadow: 1px 1px 4px #ccc;
+      -moz-box-shadow: 1px 1px 4px #ccc;
+      -webkit-box-shadow: 1px 1px 4px #ccc;
+    cursor:pointer;
+  }
+  .btn:hover {
+    background-color: #bfbfbf;
+  }
+  .btn.btn-submit {
+    background-color: #407086;
+    border-bottom-color: #374d78;
+  }
+  .btn.btn-submit:hover {
+    background-color: #5f7db6;
+  }
 .contact-container{
     width:30%;
 }
