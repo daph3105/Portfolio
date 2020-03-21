@@ -213,13 +213,14 @@ form{
     flex-direction: column;
     width:30%;
 }
-form input:nth-child(-n + 2) {
+form input:nth-child(-n + 2), textarea {
     padding:10px;
     border-radius: 5px;
     width:350px;
     margin-bottom:10px;
     border:solid 2px #F0952E; 
 }
+
 .contact-container{
     width:30%;
 }
