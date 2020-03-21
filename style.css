@@ -139,7 +139,7 @@ font-size: 2.5vw;
 .scroll-text{
     text-align: center;
     padding-bottom:8px;
-    font-size: 1.2vw;
+    font-size: 2.2vw;
 }
 .arrow-img{
     cursor: pointer;
@@ -218,7 +218,7 @@ form input:nth-child(-n + 2) {
     border-radius: 5px;
     width:350px;
     margin-bottom:10px;
-    border:solid 2px blue; 
+    border:solid 2px #F0952E; 
 }
 .contact-container{
     width:30%;
@@ -229,6 +229,15 @@ form input:nth-child(-n + 2) {
 .contact-container i{
     font-size: 42px;
     padding:10px;
+}
+.contact-container a{
+    color: inherit;
+}
+.fa-linkedin{
+    color:#0077B5;
+}
+.fa-envelope{
+    color:#F0952E;
 }
 @media only screen and (max-width: 480px) {
     #daph-gif{
