@@ -196,6 +196,7 @@ font-size: 2.5vw;
 
 .project-container{
     display: flex;
+    margin:50px;
 }
 .project-image{
     width:100%;
