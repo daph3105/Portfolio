@@ -340,5 +340,18 @@ flex-direction: column;
 #contact-area{
  flex-direction: column-reverse;
 }
+.contact-container{
+    width:70%;
+}
+.social-container{
+    display:flex;
+}
+form{
+    width:95%;
+}
+form input:nth-child(-n + 2), textarea {
+    width:100%;
+}
+
 
   }
