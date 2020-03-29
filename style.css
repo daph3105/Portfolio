@@ -201,6 +201,9 @@ font-size: 2.5vw;
 .project-image{
     width:100%;
 }
+.project-text{
+    width:40%;
+}
 .project-container a:first-child{
  text-decoration: none;
  width:30%;
