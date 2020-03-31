@@ -141,10 +141,10 @@ Technologies Used: MongoDB, Express.js, React.js, JSX, Node.js, CSS, Cloudinary,
     </section>
 
 <section id="contact-area">
-<form>
-    <input type="text" placeholder="Enter your name:">
-    <input type="email" placeholder="Enter your email:">
-    <textarea name="textarea" id="" cols="30" rows="7" placeholder="Your message here..."></textarea>
+<form method="post" name="contact_form" action="contact-form-handler.php">
+    <input type="text" placeholder="Enter your name:" name="name">
+    <input type="email" placeholder="Enter your email:" name="email">
+    <textarea name="message" id="" cols="30" rows="7" placeholder="Your message here..."></textarea>
     <input id="submit_btn" class="btn btn-submit" type="submit" value="Submit" />
 </form>    
 <div class="contact-container">
