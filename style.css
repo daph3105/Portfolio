@@ -206,8 +206,10 @@ font-size: 26px;
 margin-left:10px;
 }
 .project-text{
+    margin-top:10px;
     width:50%;
     margin-left:10px;
+    line-height: 1.5em;
 }
 .project-container a:first-child{
  text-decoration: none;
