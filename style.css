@@ -348,10 +348,14 @@ flex-direction: column;
 }
 .project-container{
     flex-direction: column;
-    margin:50px;
+    margin:10px;
 }
 .project-image{
-    width:200px;
+    width:300px;
+}
+.project-text{
+    width:100%;
+    margin-left:10px;
 }
 #contact-area{
  flex-direction: column-reverse;
