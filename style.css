@@ -346,6 +346,12 @@ flex-direction: column;
     width: 130px;
     margin-top:10px;
 }
+.soft-skills{
+margin-top:10px;
+display: inline-block;
+}
+
+
 .project-container{
     flex-direction: column;
     margin:10px;
