@@ -346,6 +346,13 @@ flex-direction: column;
     width: 130px;
     margin-top:10px;
 }
+.project-container{
+    flex-direction: column;
+    margin:50px;
+}
+.project-image{
+    width:200px;
+}
 #contact-area{
  flex-direction: column-reverse;
 }
