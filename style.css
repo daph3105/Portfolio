@@ -384,10 +384,16 @@ form input:nth-child(-n + 2), textarea {
   }
 @media only screen and (min-width: 431px) {
 
-#daph-gif{
+/* #daph-gif{
         height: 170px;
-        left:-20px;
-        bottom:150px;
+        left:-40px;
+        bottom:100px;
     }
-    
+.intro-title{
+        font-size: 22px;
+        width:48%;
+        text-align: left;
+        margin-top:50px;
+    } */
+
   }
