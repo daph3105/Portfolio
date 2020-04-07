@@ -277,7 +277,7 @@ form input:nth-child(-n + 2), textarea {
 .fa-envelope{
     color:#F0952E;
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 430px) {
     #daph-gif{
       height: 150px;
       left:-10px;
