@@ -382,3 +382,12 @@ form input:nth-child(-n + 2), textarea {
 
 
   }
+@media only screen and (min-width: 431px) {
+
+#daph-gif{
+        height: 170px;
+        left:-20px;
+        bottom:150px;
+    }
+    
+  }
